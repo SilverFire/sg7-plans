@@ -13,6 +13,14 @@
 | 4.Гардеробна    | 3,69  |
 | 5.Передпокій    | 10,50 |
 
-## 📁[План приміщення](plan.pdf)
+## План приміщення
 
-## 📁[План поверху](floor.pdf)
+<iframe src="plan.pdf" width="100%" height="620" style="border:none;"></iframe>
+
+[⬇ Завантажити план приміщення](plan.pdf){ .md-button }
+
+## План поверху
+
+<iframe src="floor.pdf" width="100%" height="620" style="border:none;"></iframe>
+
+[⬇ Завантажити план поверху](floor.pdf){ .md-button }

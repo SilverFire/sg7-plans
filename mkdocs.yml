@@ -18,6 +18,10 @@ theme:
 plugins:
   - search
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 not_in_nav: |
   CNAME
   SG7-Plans.zip

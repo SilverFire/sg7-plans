@@ -15,6 +15,14 @@
 | 6.Коридор        | 7.28  |
 | 7.Лоджія (K=0.5) | 2.01  |
 
-## 📁[План приміщення](plan.pdf)
+## План приміщення
 
-## 📁[План поверху](floor.pdf)
+<iframe src="plan.pdf" width="100%" height="620" style="border:none;"></iframe>
+
+[⬇ Завантажити план приміщення](plan.pdf){ .md-button }
+
+## План поверху
+
+<iframe src="floor.pdf" width="100%" height="620" style="border:none;"></iframe>
+
+[⬇ Завантажити план поверху](floor.pdf){ .md-button }
