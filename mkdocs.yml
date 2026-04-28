@@ -1,0 +1,23 @@
+site_name: SG-7 Плани квартир
+site_url: https://plans.7-info.pp.ua
+docs_dir: downloads
+
+theme:
+  name: material
+  language: uk
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - search.highlight
+    - content.tooltips
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: blue
+
+plugins:
+  - search
+
+not_in_nav: |
+  CNAME
+  SG7-Plans.zip
