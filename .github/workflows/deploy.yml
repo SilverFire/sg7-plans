@@ -30,7 +30,7 @@ jobs:
         run: mkdocs build
 
       - name: Inject CNAME
-        run: echo "plans.7-info.pp.ua" > site/CNAME
+        run: echo "flats.7-info.pp.ua" > site/CNAME
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
